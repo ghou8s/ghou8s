@@ -1,4 +1,4 @@
-                     ![asciiquarium](https://user-images.githubusercontent.com/42911446/160369493-390d887d-78a4-4919-8f48-ea5be9c12cee.gif)
+![asciiquarium](https://user-images.githubusercontent.com/42911446/160369493-390d887d-78a4-4919-8f48-ea5be9c12cee.gif)
 
 <h1 align="center">Hi 👋, I'm ghou8s</h1>
 <h3 align="center">Android 10 Supremacy</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **t.me/ghou8s**
+- 📫 How to reach me [Telegram](https://t.me/ghou8s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
