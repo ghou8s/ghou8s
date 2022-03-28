@@ -1,4 +1,4 @@
-<![asciiquarium](https://user-images.githubusercontent.com/42911446/160369493-390d887d-78a4-4919-8f48-ea5be9c12cee.gif)/>
+<h1 align="center"> <img src="https://3.bp.blogspot.com/-klu_KL_hvDE/W6f5HxUwcbI/AAAAAAAAAZ8/aQeDL47LDdMvqSioOTeqvJYhaOO-z6fMgCPcBGAYYCw/w600/bandicam-2018-09-20-10-58-24-359.gif" </h1>
 
 <h1 align="center">Hi 👋, I'm ghou8s</h1>
 <h3 align="center">Android 10 Supremacy</h3>
